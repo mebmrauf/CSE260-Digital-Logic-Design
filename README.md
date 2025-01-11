@@ -15,6 +15,6 @@ This course provides an introduction to digital systems such as computer, commun
 
 # Playlist
 
-DZK:
+**DZK:**
 
 https://youtube.com/playlist?list=PLTlXQu_162Qi4Bi8S5UskgcVgBhy0wXpg&si=YqX7NNlb1h-TVYU6
